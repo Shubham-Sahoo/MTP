@@ -1,0 +1,133 @@
+PATH1	DURATION1	PATH2	DURATION2	OFFSET	TRANSCRIPT
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0054.wav	1.05	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0054.wav	0.7674375	0.38325	beat
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0050.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0050.wav	1.6761875	0.25825	beta
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0004.wav	8.7	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0004.wav	9.602375	-1.3021875	[say Eee-P-Ah repeatedly]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0090.wav	2.1	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0090.wav	1.759125	0.2700625	trouble
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0029.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0029.wav	0.7613125	0.81175	beat
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0108.wav	2.1	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0108.wav	1.9774375	0.102875	jacket
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0072.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0072.wav	1.301875	0.2193125	sheet
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0040.wav	0.9	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0040.wav	0.4685	0.887625	rave
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0041.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0041.wav	0.024375	1.0876875	rave
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0043.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0043.wav	1.3404375	0.410625	sip
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0083.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0083.wav	1.401	0.374625	goat
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0079.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0079.wav	0.54175	0.6804375	air
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0115.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0115.wav	2.0803125	-0.19925	feed
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0132.wav	10.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0132.wav	9.163125	0	When he speaks, his voice is just a bit cracked and quivers a trifle.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0033.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0033.wav	0.114875	0.7530625	car
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0107.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0107.wav	1.34875	0.0876875	read [as in I can read]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0121.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0121.wav	1.832625	-0.4915	park
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0052.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0052.wav	1.28725	0.1803125	spark
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0067.wav	3.3	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0067.wav	3.3	-0.1838125	[relax your mouth in its normal position]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0086.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0086.wav	1.3110625	0.0494375	go
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0005.wav	4.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0005.wav	7.1646875	0.5076875	[relax your mouth in its normal position]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0066.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0066.wav	1.6050625	0.512875	weed
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0076.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0076.wav	0.73325	0.5873125	ship
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0081.wav	1.2	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0081.wav	1.03775	-0.2093125	share
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0016.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0016.wav	2.4126875	-0.41275	swarm
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0020.wav	4.2	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0020.wav	4.1161875	0.7574375	Usually minus several buttons.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0069.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0069.wav	1.183	0.2379375	bat
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0077.wav	6.45	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0077.wav	7.187875	-0.3394375	input/images/kitchen.jpg
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0099.wav	2.25	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0099.wav	0.0	1.2126875	stubble
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0003.wav	6.45	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0003.wav	7.1629375	0.557625	[say Pah-Tah-Kah repeatedly]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0112.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0112.wav	1.6345	-0.266625	right
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0049.wav	1.05	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0049.wav	1.5843125	-0.002625	two
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0035.wav	12.6	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0035.wav	11.7368125	0.6848125	giving those who observe him a pronounced feeling of the utmost respect.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0053.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0053.wav	1.23625	0.0645	swarm
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0126.wav	6.15	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0126.wav	5.21175	1.0290625	he dresses himself in an ancient black frock coat,
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0116.wav	9.75	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0116.wav	9.714625	0.092375	Twice each day he plays skillfully and with zest upon our small organ.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0128.wav	0.75	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0128.wav	2.2784375	-0.220625	storm
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0006.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0006.wav	1.35225	0.047125	stick
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0073.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0073.wav	1.1243125	0.045875	chair
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0133.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0133.wav	1.2383125	0	trait
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0100.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0100.wav	1.7185625	0.2633125	floor
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0063.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0063.wav	1.2174375	-0.0745625	farm
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0114.wav	5.55	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0114.wav	5.1016875	-0.5684375	Well, he is nearly ninety three years old
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0093.wav	4.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0093.wav	3.5645	0.586125	A long, flowing beard clings to his chin,
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0106.wav	5.25	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0106.wav	5.6960625	-0.31125	yet he still thinks as swiftly as ever.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0061.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0061.wav	0.8343125	0.3330625	dark
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0002.wav	8.4	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0002.wav	9.01225	0.397125	[say Ah-P-Eee repeatedly]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0084.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0084.wav	1.9830625	-0.0845625	trace
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0074.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0074.wav	1.25375	-0.6093125	bubble
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0085.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0085.wav	1.5910625	-0.2234375	sip
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0018.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0018.wav	2.0749375	-0.1000625	no
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0095.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0095.wav	0.321375	1.1025625	glow
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0047.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0047.wav	1.1429375	0.207875	one
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0110.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0110.wav	1.3100625	0.0768125	warm
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0042.wav	2.1	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0042.wav	0.783875	-0.199375	for
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0036.wav	7.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0036.wav	4.6636875	1.655625	We have often urged him to walk more and smoke less,
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0087.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0087.wav	1.591125	-0.02975	alpha
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0104.wav	6.45	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0104.wav	4.1381875	0.268125	yet he still thinks as swiftly as ever.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0045.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0045.wav	0.7323125	0.40175	bit
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0105.wav	4.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0105.wav	4.81975	-0.0290625	yet he still thinks as swiftly as ever.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0111.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0111.wav	1.2200625	0.4144375	corn
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0009.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0009.wav	1.2211875	0.0334375	pat
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0027.wav	5.4	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0027.wav	4.1266875	1.1349375	but he always answers, Banana oil!
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0064.wav	1.05	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0064.wav	1.07475	0.4595	raid
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0068.wav	4.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0068.wav	4.35	-0.052625	[relax your mouth in its normal position]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0022.wav	5.85	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0022.wav	4.837375	0.153	You wished to know all about my grandfather.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0123.wav	2.1	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0123.wav	1.6840625	-0.3006875	down
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0013.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0013.wav	0.7465625	0.5563125	know
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0120.wav	5.4	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0120.wav	3.2966875	0.22	[say Ah for 5 seconds]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0078.wav	4.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0078.wav	4.61775	0.1785	input/images/kitchen.jpg
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0021.wav	2.85	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0021.wav	1.4775625	0.36675	dug
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0017.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0017.wav	2.41275	-0.1384375	double
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0134.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0134.wav	1.98125	0	yes
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0118.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0118.wav	1.71175	0.0715	knew
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0071.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0071.wav	1.4601875	0.1779375	jagged
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0037.wav	3.3	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0037.wav	1.218875	0.5983125	rake
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0048.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0048.wav	1.9011875	-0.007375	fair
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0034.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0034.wav	0.5041875	0.36375	feet
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0122.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0122.wav	1.8821875	-0.235375	tip
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0046.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0046.wav	1.1710625	0.213125	chair
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0094.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0094.wav	0.8674375	0.4410625	slip
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0025.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0025.wav	2.3325	-0.4571875	feet
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0051.wav	1.05	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0051.wav	0.9443125	0.439875	rage
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0057.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0057.wav	1.567625	-0.1673125	race
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0070.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0070.wav	1.0883125	0.432875	horn
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0058.wav	0.9	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0058.wav	0.4941875	0.4564375	the
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0001.wav	9.3	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0001.wav	9.9145625	0.30225	[say Ah-P-Eee repeatedly]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0109.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0109.wav	1.5850625	0.0494375	born
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0039.wav	2.1	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0039.wav	1.2748125	-0.5560625	swore
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0015.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0015.wav	2.1231875	-0.242375	air
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0130.wav	4.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0130.wav	5.425625	0.3199375	Grandfather likes to be modern in his language.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0062.wav	1.2	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0062.wav	0.6280625	0.4393125	sip
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0031.wav	4.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0031.wav	4.0808125	0.529875	The quick brown fox jumps over the lazy dog.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0131.wav	1.05	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0131.wav	1.6345	-0.2083125	torn
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0091.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0091.wav	1.7943125	0.3733125	dagger
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0023.wav	2.7	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0023.wav	1.9006875	0.2148125	[say OA as in cOAt in a very low pitch]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0011.wav	0.75	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0011.wav	1.299875	0.2925625	meat
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0032.wav	7.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0032.wav	6.93375	0.633125	She had your dark suit in greasy wash water all year.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0088.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0088.wav	1.4296875	-0.2379375	left
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0012.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0012.wav	1.3173125	0.3233125	meat
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0101.wav	0.9	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0101.wav	0.0	2.12	bug
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0127.wav	4.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0127.wav	4.210125	-0.7016875	input/images/story_starters_15.jpg
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0014.wav	6.9	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0014.wav	6.486625	0.0758125	he slowly takes a short walk in the open air each day.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0080.wav	1.05	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0080.wav	1.8678125	-0.1714375	hair
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0065.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0065.wav	1.167375	-0.21125	fee
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0124.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0124.wav	1.869	0.4589375	gadget
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0119.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0119.wav	1.37625	0.456375	rain
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0103.wav	1.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0103.wav	0.9904375	0.202625	lead [as in I will lead you]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0089.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0089.wav	1.1296875	0.461375	sticks
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0129.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0129.wav	0.5405	0.400625	storm
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0113.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0113.wav	1.8118125	0.0208125	knew
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0007.wav	2.1	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0007.wav	1.659875	0.608125	tear [as in tear up that paper]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0096.wav	6.45	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0096.wav	5.1655	0.7224375	[say Ah for 5 seconds]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0117.wav	0.9	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0117.wav	0.4770625	1.3555625	feed
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0028.wav	4.5	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0028.wav	3.1315625	0.4755625	but he always answers, Banana oil!
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0125.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0125.wav	2.3279375	-0.7934375	store
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0019.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0019.wav	1.8758125	0.006125	storm
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0102.wav	2.25	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0102.wav	0.942875	-0.0059375	bug
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0082.wav	2.1	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0082.wav	1.014625	-0.183375	rate
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0038.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0038.wav	1.0844375	0.5158125	[say Eee in a very high pitch]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0010.wav	1.95	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0010.wav	2.0749375	-0.7729375	up
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0024.wav	2.4	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0024.wav	1.6815625	-0.57925	knee
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0060.wav	1.65	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0060.wav	1.00175	0.36575	form
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0092.wav	2.1	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0092.wav	1.098	0.055	read [as in I can read]
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0008.wav	10.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0008.wav	9.5565625	0.2871875	Except in the winter when the ooze or snow or ice prevents,
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0044.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0044.wav	1.2284375	0.1724375	grow
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0030.wav	5.25	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0030.wav	4.4608125	0.33975	The quick brown fox jumps over the lazy dog.
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0098.wav	2.4	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0098.wav	1.308375	-0.413375	range
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0026.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0026.wav	1.578625	0.4826875	train
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0059.wav	1.35	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0059.wav	0.4435625	0.507	the
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0075.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0075.wav	1.3540625	-0.0414375	warm
+/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_arrayMic/0097.wav	1.8	/home/shubham/TensorFlowASR/data/F/F01/Session1/wav_headMic/0097.wav	1.481625	-0.580125	trade
